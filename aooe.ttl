@@ -25,7 +25,9 @@
     dct:description "Terms the AOOE methodology uses to annotate import manifests, Behavioral Concept Specifications and adoption levels. This is a methodology vocabulary, not a domain vocabulary: it never appears in a public projection."@en ;
     owl:versionInfo "0.7.0" ;
     dct:created "2026-10-27"^^xsd:date ;
-    dct:publisher <https://wordlift.io/> .
+    dct:publisher <https://wordlift.io/> ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dct:rights "Copyright WordLift. This vocabulary is released under the Creative Commons Attribution 4.0 International licence (CC BY 4.0). The AOOE methodology, its tooling and templates are maintained separately and are not covered by this licence."@en .
 
 #----------------------------------------------------------------
 # 1. Import-manifest terms (Phase 1.5)

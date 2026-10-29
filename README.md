@@ -23,4 +23,13 @@ This repository publishes the vocabulary only. The methodology, its gate
 tooling and the client template are maintained separately by WordLift; this
 file is released with each methodology version (`owl:versionInfo`).
 
+## Licence
+
+The vocabulary files in this repository (`aooe.ttl`, `aooe.jsonld`, `aooe.owl` and
+the documentation page) are released under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/),
+stated on the ontology header as `dct:license`. Attribute to WordLift and link
+to `https://w3id.org/aooe#`. The AOOE methodology, its gate tooling and the
+client template are maintained separately and are not covered by this licence.
+
 Maintainer: WordLift — <https://wordlift.io>
